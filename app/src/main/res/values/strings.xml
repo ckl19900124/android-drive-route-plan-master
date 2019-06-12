@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">驾车路径示例</string>
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+
+    <string name="app_id">58eedde4</string>
+    <string name="congestion">避免拥堵</string>
+    <string name="cost">避免收费</string>
+    <string name="avoidhightspeed">不走高速</string>
+    <string name="hightspeed">高速优先</string>
+</resources>
